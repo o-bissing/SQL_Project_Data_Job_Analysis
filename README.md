@@ -62,7 +62,7 @@ Here are the key insights for Data Scientist roles in brief:
 - **Emerging Trends**: Skills like aws and data visualization are also crucial, indicating the need for cloud and communication expertise.
 - **Industry Focus**: Roles are concentrated in finance, tech, and consultancy sectors, offering competitive salaries for expertise.
 
-![Top paying roles](assets\10_most_common_skills_data_science.jpg)
+![Top paying roles](assets\10_most_common_skills_data_science.png)
 _Bar graph visualizing top in-demand skills for Data Scientist wouldwide; ChatGPT generated this graph from my SQL query results_
 
 # What I learned
